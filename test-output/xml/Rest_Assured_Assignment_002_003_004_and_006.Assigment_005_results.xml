@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Trining_Assignment"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.796">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validate_findByStatus"
+                time="4.796"
+                classname="Rest_Assured_002_003_004_and_006.Assigment_005">
+            </testcase>
+</testsuite>

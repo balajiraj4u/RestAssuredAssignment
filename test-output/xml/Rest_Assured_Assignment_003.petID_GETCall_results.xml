@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Trining_Assignment"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.982">
+    <properties></properties>
+
+
+
+            <testcase
+                name="do_petstore_Validation"
+                time="2.982"
+                classname="Rest_Assured_002_003_004_and_006.petID_GETCall">
+            </testcase>
+</testsuite>

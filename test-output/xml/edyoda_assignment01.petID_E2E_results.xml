@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Trining_Assignment"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.464">
+    <properties></properties>
+
+
+
+            <testcase
+                name="pet_id_E2E_testing_Ass_001"
+                time="5.464"
+                classname="Assignment_001.petID_E2E">
+            </testcase>
+</testsuite>

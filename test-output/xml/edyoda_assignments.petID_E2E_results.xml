@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PetID_API_Validation"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.691">
+    <properties></properties>
+
+
+
+            <testcase
+                name="pet_id_E2E_testing"
+                time="5.691"
+                classname="Assignment_001.petID_E2E">
+            </testcase>
+</testsuite>
